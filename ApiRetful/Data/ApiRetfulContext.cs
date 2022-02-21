@@ -21,5 +21,11 @@ namespace ApiRetful.Data
         public DbSet<ApiRetful.Modelo.Person> Person { get; set; }
 
         public DbSet<ApiRetful.Modelo.Income> Income { get; set; }
+
+        public DbSet<ApiRetful.Modelo.IncomeDetail> IncomeDetail { get; set; }
+
+        public DbSet<ApiRetful.Modelo.Rol> Rol { get; set; }
+
+        public DbSet<ApiRetful.Modelo.Sale> Sale { get; set; }
     }
 }

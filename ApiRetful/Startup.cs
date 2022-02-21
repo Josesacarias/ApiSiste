@@ -32,6 +32,11 @@ namespace ApiRetful
             services.AddDbContext<ApiRetfulContext>(options =>
                     options.UseSqlServer(Configuration.GetConnectionString("ApiRetfulContext")));
             services.AddControllers().AddNewtonsoftJson();
+            services.AddCors(options =>
+            {
+                options.AddPolicy("Todos",
+                    builder => builder.WithOrigins("*").WithHeaders("*").WithMethods("*"));
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,6 +46,7 @@ namespace ApiRetful
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors("Todos");
 
             app.UseHttpsRedirection();
 
