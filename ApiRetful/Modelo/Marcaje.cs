@@ -13,7 +13,7 @@ namespace ApiRetful.Modelo
         public string Name { get; set; }
         public string Department { get; set; }
         public DateTime DateM { get; set; }
-        public DateTime EntryTime { get; set; }
-        public DateTime DepartureTime { get; set; } 
+        public string EntryTime { get; set; }
+        public string DepartureTime { get; set; } 
     }
 }
