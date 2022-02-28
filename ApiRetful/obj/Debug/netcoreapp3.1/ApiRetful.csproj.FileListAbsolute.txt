@@ -118,7 +118,6 @@ C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\bin\Debug\netcoreapp3.1\ru
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\obj\Debug\netcoreapp3.1\ApiRetful.csproj.AssemblyReference.cache
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\obj\Debug\netcoreapp3.1\ApiRetful.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\obj\Debug\netcoreapp3.1\ApiRetful.AssemblyInfoInputs.cache
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\obj\Debug\netcoreapp3.1\ApiRetful.AssemblyInfo.cs
@@ -135,3 +134,4 @@ C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\bin\Debug\netcoreapp3.1\Mi
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\INFORMATICA\source\repos\ApiRetful\ApiRetful\obj\Debug\netcoreapp3.1\ApiRetful.csproj.AssemblyReference.cache

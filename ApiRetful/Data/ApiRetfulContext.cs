@@ -27,5 +27,9 @@ namespace ApiRetful.Data
         public DbSet<ApiRetful.Modelo.Rol> Rol { get; set; }
 
         public DbSet<ApiRetful.Modelo.Sale> Sale { get; set; }
+
+        public DbSet<ApiRetful.Modelo.Marcaje> Marcaje { get; set; }
+
+       
     }
 }
